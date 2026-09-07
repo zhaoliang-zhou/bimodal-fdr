@@ -1,0 +1,13 @@
+Input data: /Users/zhaoliangzhou/Documents/Thesis/Project 1 - Bimodal FDR/Bimodal FDR/Git/LLD_data.RData
+Rows after filtering: 3741
+Null rows: 3460
+Non-null rows: 281
+FC-only threshold: 0.22630583
+FC-only rejections: 47
+FC-plus-SC threshold: 0.35735322
+FC-plus-SC rejections: 160
+Marginal Storey estimate: 0.90831329
+SC-informed Storey estimate: 0.90831329
+Stochastic-ordering check: TRUE
+TP2 prior-ratio ordering check: TRUE
+TP2 auxiliary-ratio ordering check: TRUE

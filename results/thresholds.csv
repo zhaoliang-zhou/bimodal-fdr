@@ -1,0 +1,3 @@
+"model","threshold","number_rejected","average_lfdr"
+"FC-only",0.226305830375733,47,0.199895075578629
+"FC-plus-SC",0.357353215148844,160,0.199453312319234
